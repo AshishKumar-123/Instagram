@@ -1,0 +1,26 @@
+export const USERS = [
+    {
+        user:'cleverqazi',
+        image:'https://yt3.ggpht.com/ytc/AKedOLRY9Un_v7Xr9dG1F5NEkqGsGSqwqRz0O3w3r1mI=s900-c-k-c0x00ffffff-no-rj'
+    },
+    {
+        user:'sahilrajsharma',
+        image:'https://helpx.adobe.com/content/dam/help/en/stock/how-to/visual-reverse-image-search/jcr_content/main-pars/image/visual-reverse-image-search-v2_intro.jpg'
+    },
+    {
+        user:'dayababhi',
+        image:'https://www.bollywoodhungama.com/wp-content/uploads/2022/06/disha-vakani-taarak-1200.jpg'
+    },
+    {
+        user:'tapu',
+        image:'https://static.toiimg.com/photo/msid-88222009/88222009.jpg?41578'
+    },
+    {
+        user:'jetha',
+        image:'https://images.hindi.news18.com/ibnkhabar/uploads/2018/11/Untitled-design-58-3.jpg'
+    },
+    {
+        user:'bezos',
+        image:'https://media.npr.org/assets/img/2021/06/07/gettyimages-1148401691-7a4113b5cb2ec3c3e2cb2ff4b70d5a7ed51d2b7a-s1100-c50.jpg'
+    }
+]
